@@ -1,5 +1,6 @@
 Simon's Pork Sinigang (Tamarind Soup)
 -----------------------------------
+<<<<<<< HEAD
 Ingredients:
 2 pieces taro
 
@@ -12,6 +13,12 @@ Directions:
 2. Sauté the onion until its layers separate from each other
 5. Pour the water and bring to a boil
 
+=======
+1/2 teaspoon salt
+
+4. Add eggs and crushed bananas. Combine well.
+9. Mix just until combined. Do not overmix.
+>>>>>>> main
 
 
 
